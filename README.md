@@ -1,7 +1,7 @@
 # fedora-36-post-install-script
 
 A collection of scripts and configs to make Fedora the way I want after install.
-Note that this is something I wrote specifically for myself. You can remove certain parts / apps etc. If you remove Skype or Geary from the script, you should probably also remove their config / autostart files from userdata/.config/autostart and userdata/.var/app.
+Note that this is something I wrote specifically for myself. You can remove certain parts / apps etc. If you remove Skype or Geary from the install script, you should probably also remove their config / autostart files from userdata/.config/autostart and userdata/.var/app.
 
 INSTALLATION
 
